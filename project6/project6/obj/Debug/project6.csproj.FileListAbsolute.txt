@@ -1,0 +1,20 @@
+C:\Users\GoodComp24\source\repos\project6\project6\bin\Debug\project6.exe.config
+C:\Users\GoodComp24\source\repos\project6\project6\bin\Debug\project6.exe
+C:\Users\GoodComp24\source\repos\project6\project6\bin\Debug\project6.pdb
+C:\Users\GoodComp24\source\repos\project6\project6\obj\Debug\project6.csproj.AssemblyReference.cache
+C:\Users\GoodComp24\source\repos\project6\project6\obj\Debug\project6.Form1.resources
+C:\Users\GoodComp24\source\repos\project6\project6\obj\Debug\project6.Properties.Resources.resources
+C:\Users\GoodComp24\source\repos\project6\project6\obj\Debug\project6.csproj.GenerateResource.cache
+C:\Users\GoodComp24\source\repos\project6\project6\obj\Debug\project6.csproj.CoreCompileInputs.cache
+C:\Users\GoodComp24\source\repos\project6\project6\obj\Debug\project6.exe
+C:\Users\GoodComp24\source\repos\project6\project6\obj\Debug\project6.pdb
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\bin\Debug\project6.exe.config
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\bin\Debug\project6.exe
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\bin\Debug\project6.pdb
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\obj\Debug\project6.csproj.AssemblyReference.cache
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\obj\Debug\project6.Form1.resources
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\obj\Debug\project6.Properties.Resources.resources
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\obj\Debug\project6.csproj.GenerateResource.cache
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\obj\Debug\project6.csproj.CoreCompileInputs.cache
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\obj\Debug\project6.exe
+C:\Users\GoodComp24\OneDrive\Рабочий стол\project6\project6\obj\Debug\project6.pdb
